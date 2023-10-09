@@ -5,5 +5,5 @@ A Python package manager.
 `mkdir ~/Library/deppy`
 `mkdir ~/Library/deppy/cache`
 `curl https://raw.githubusercontent.com/GenericProgrammer1234/Deppy/main/deppy.py -OL`
-Put this in your .profile, .bash_profile or .zprofile: `alias deppy=/path/where/you/curled/deppy.py`
+Put this in your .profile, .bash_profile or .zprofile: `alias deppy="python /path/where/you/curled/deppy.py"`
 Then restart your shell.
